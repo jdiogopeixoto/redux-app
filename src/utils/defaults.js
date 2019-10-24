@@ -1,0 +1,1 @@
+export const URL = 'http://dummy.restapiexample.com/api/v1/employees';
